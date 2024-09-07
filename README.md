@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arojit6 a result-oriented software engineer.
+- 👋 Hi, I’m Arojit Pant a result-oriented software engineer.
 I hold a Bachelor's degree in Computer Science Engineering
 
 💻 Proficient in Java,Html, CSS,  JavaScript, React.js, Python, OOPS, and Data Structures.
